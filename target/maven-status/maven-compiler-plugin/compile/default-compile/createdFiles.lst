@@ -1,0 +1,11 @@
+com\taskmanager\repository\TaskRepository.class
+com\taskmanager\service\impl\TaskServiceImpl.class
+com\taskmanager\config\WebSocketConfig.class
+com\taskmanager\controller\TaskController.class
+com\taskmanager\TaskManagementApplication.class
+com\taskmanager\model\TaskStatus.class
+com\taskmanager\config\WebConfig.class
+com\taskmanager\exception\GlobalExceptionHandler.class
+com\taskmanager\model\User.class
+com\taskmanager\service\TaskService.class
+com\taskmanager\model\Task.class
